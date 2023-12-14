@@ -9,7 +9,7 @@ t2.o:t2.c
 
 #  .PHONY : clean
 clean:
-	# rm t1.o t2.o hw
+# rm t1.o t2.o hw
 	del *.o
 	del hw.*
 
